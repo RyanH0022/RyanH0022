@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RyanH0022
 - 👀 I’m interested in sports and coding
-- 🌱 I’m currently learning c# and swift
+- 🌱 I’m currently learning c#,swift and java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me; Insta: ryan_jh8
+- 😄 Pronouns: He
 - ⚡ Fun fact: yeah nothing
 
 <!---
